@@ -27,11 +27,8 @@ int main (){
     do{
         cout << "Nilai x : " << x << " Lari keliling Lapangan" << endl;
         x = rand() % 10;
-        PerulanganWhile++;
+        PerulanganDoWhile++;
       }while (x < 7);
       cout << "Nilai x akhir : " << x << endl;
       cout << "Jumlah perulangan ini saat : " << PerulanganDoWhile << endl;
-
-      
-
 }

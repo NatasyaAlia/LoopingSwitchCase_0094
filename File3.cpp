@@ -43,6 +43,9 @@ int main(){
                 break;
             
             case 3 :
+                cout << "Terima Kasih!" << endl;
+                break;
+            default :
                 cout << "Pilihan anda salah!" << endl;
                 cout << endl;
                 break;

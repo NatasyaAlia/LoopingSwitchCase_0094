@@ -20,8 +20,8 @@ int main(){
         << "Lari keliling lapangan" << endl;
     }
 
-    cout << "Nilai i terakhir : " << i << endl;
+    cout << "Nilai i terakhir : " << i << " untuk perulangan for." << endl;
 
-    
+
     
 }   
